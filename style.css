@@ -27,7 +27,7 @@ h2 {
 .button-group {
     display: flex;
     justify-content: center;
-    gap: 20px; /* Adds space between buttons */
+    gap: 20px; 
 }
 
 button {
@@ -38,7 +38,7 @@ button {
     cursor: pointer;
     box-shadow: 0 2px 4px rgb(74, 73, 73);
     border: none;
-    padding: 10px; /* Added padding for better appearance */
+    padding: 10px; 
 }
 
 button.yes-button {
